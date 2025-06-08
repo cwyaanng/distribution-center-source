@@ -1,6 +1,3 @@
-
-
-```markdown
 ## 📦 Backend API 및 데이터 처리 로직
 
 ### ✅ 1. 작업자 스케줄 조회 및 Firebase 저장
